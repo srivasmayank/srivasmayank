@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate aspiring software engineer</h3>
 
-- 🔭 I’m currently working on **Educonnect**
+- 🌱 I’m currently learning about **microservice architecture**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React.js, Node.js, Express.js, PostgreSQL,MongoDB**
+- 💬 Ask me about **React.js, Node.js, Express.js,MongoDB**
 
 - 📫 How to reach me **mayansrivas@gmail.com**
 
