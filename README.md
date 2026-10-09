@@ -35,7 +35,7 @@
 **Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite" alt="React, Redux, HTML, CSS, Tailwind CSS, Vite" />
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" alt="React, Redux, HTML, CSS, Tailwind CSS" />
 </p>
 
 **Backend Development**
@@ -47,24 +47,13 @@
 **Databases, Caching and Messaging**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,rabbitmq" alt="MySQL, MongoDB, PostgreSQL, Redis, RabbitMQ" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,rabbitmq" alt="MySQL, MongoDB, Redis, RabbitMQ" />
 </p>
 
 **DevOps and AI**
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,langchain" alt="Docker, Kubernetes, Git, GitHub, Linux, LangChain" />
-</p>
-
-### GitHub Statistics
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srivasmayank&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivasmayank&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivasmayank&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
