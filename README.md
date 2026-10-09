@@ -1,22 +1,74 @@
-<h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A passionate aspiring software engineer</h3>
+# Hi 👋, I'm Mayank Srivastava
 
-- 🌱 I’m currently learning about **microservice architecture**
+<h3 align="center">Full-Stack Developer | Backend Engineering | AI Applications</h3>
 
-- 💬 Ask me about **React.js, Node.js, Express.js,MongoDB**
-
-- 📫 How to reach me **mayansrivas@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-srivastava-6b2070252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-srivastava-6b2070252/" height="30" width="40" /></a>
+<p align="center">
+  Building reliable backend systems, scalable applications, and AI-powered solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 💻 Experienced in building full-stack applications with **React, Node.js, NestJS, TypeScript, and GraphQL**
+- ⚙️ Interested in **system design, microservices, distributed systems, caching, and message queues**
+- 🤖 Exploring **LLM applications, Retrieval-Augmented Generation (RAG), and semantic search**
+- 🌱 Currently building projects focused on **scalability, reliability, and performance**
+- 🤝 Interested in **open-source contributions and collaborative software development**
+- 📫 Reach me at **mayansrivas@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivasmayank&show_icons=true&locale=en&layout=compact" alt="srivasmayank" /></p>
+### Connect with me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivasmayank&show_icons=true&locale=en" alt="srivasmayank" /></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mayank-srivastava-6b2070252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/srivasmayank" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasmayank&" alt="srivasmayank" /></p>
+### Languages and Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,sql" alt="JavaScript, TypeScript, C++, Python, SQL" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,vite" alt="React, Redux, HTML, CSS, Tailwind CSS, Vite" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" alt="Node.js, NestJS, Express, GraphQL" />
+</p>
+
+**Databases, Caching and Messaging**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,rabbitmq" alt="MySQL, MongoDB, PostgreSQL, Redis, RabbitMQ" />
+</p>
+
+**DevOps and AI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,langchain" alt="Docker, Kubernetes, Git, GitHub, Linux, LangChain" />
+</p>
+
+### GitHub Statistics
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srivasmayank&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivasmayank&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivasmayank&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning by building. Improving through collaboration. Contributing to open source.</i>
+</p>
